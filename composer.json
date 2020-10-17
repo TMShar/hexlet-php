@@ -1,0 +1,11 @@
+{
+    "name": "tmshar/hexlet-php",
+    "description": "hexlet-php test",
+    "authors": [
+        {
+            "name": "TMShar",
+            "email": "tmshar.selfip@gmail.com"
+        }
+    ],
+    "require": {}
+}
